@@ -1,0 +1,23 @@
+body{
+    padding: none;
+    marign: 0px;
+    font-family: monospace;
+    font-kerning: auto;
+    font-feature-settings: normal;
+    
+}
+
+#drawer {
+
+    border: 3px solid #787878;
+    border-radius: 10%;
+    
+}
+
+
+#drawer2 {
+
+    border: 3px solid #787878;
+    border-radius: 10%;
+    
+}

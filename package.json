@@ -1,0 +1,33 @@
+{
+  "name": "drawme",
+  "version": "1.0.0",
+  "description": "Socket based collabrative board",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikene/drawme.git"
+  },
+  "keywords": [
+    "Drawing",
+    "collabratiton"
+  ],
+  "author": "Vigneash Sundar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikene/drawme/issues"
+  },
+  "homepage": "https://github.com/vikene/drawme",
+    "dependencies":{
+    "express":"~4.9.0",
+        "socket.io":"^1.2.0"
+    
+    },
+    
+    "scripts":{
+    "start":"node app.js"
+    
+    }
+}
